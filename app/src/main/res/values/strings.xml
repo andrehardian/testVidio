@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestVidio</string>
+    <string name="category_list">Category List</string>
+    <string name="random">Random</string>
+</resources>
